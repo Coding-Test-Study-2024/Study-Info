@@ -38,6 +38,7 @@
 |[14503](https://www.acmicpc.net/problem/14503)|로봇 청소기|53%|  |
 |[7562](https://www.acmicpc.net/problem/7562)|나이트의 이동|51%|  |
 |[1652](https://www.acmicpc.net/problem/1652)|누울 자리를 찾아라|42%|  |
+|[1388](https://www.acmicpc.net/problem/1388)|바닥장식|실4| |
 
 ### <중> 
 |번호|제목|정답률|비고|상태|
@@ -55,29 +56,31 @@
 ### <상>
 |번호|제목|정답률|비고|상태
 |-----|:------:|:---:|:---:|:---:|
-|[1012](https://www.acmicpc.net/problem/1012)|유기농 배추|38%|
-|[6593](https://www.acmicpc.net/problem/6593)|상범 빌딩|38%|
-|[7576](https://www.acmicpc.net/problem/7576)|토마토|36%|
-|[2468](https://www.acmicpc.net/problem/2468)|안전 영역|34%|
-|[2146](https://www.acmicpc.net/problem/2146)|다리 만들기|34%|
-|[20304](https://www.acmicpc.net/problem/20304)|비밀번호 제작|31%|
-|[2573](https://www.acmicpc.net/problem/2573)|빙산|26%|
-|[1697](https://www.acmicpc.net/problem/1697)|숨바꼭질|25%|
-|[4179](https://www.acmicpc.net/problem/4179)|불!|20%|
+|[1012](https://www.acmicpc.net/problem/1012)|유기농 배추|38%| |
+|[6593](https://www.acmicpc.net/problem/6593)|상범 빌딩|38%| |
+|[7576](https://www.acmicpc.net/problem/7576)|토마토|36%| |
+|[2468](https://www.acmicpc.net/problem/2468)|안전 영역|34%| |
+|[2146](https://www.acmicpc.net/problem/2146)|다리 만들기|34%| |
+|[20304](https://www.acmicpc.net/problem/20304)|비밀번호 제작|31%| |
+|[2573](https://www.acmicpc.net/problem/2573)|빙산|26%| |
+|[1697](https://www.acmicpc.net/problem/1697)|숨바꼭질|25%| |
+|[4179](https://www.acmicpc.net/problem/4179)|불!|20%| |
 
 ## ✂️다이나믹 프로그래밍, 분할정복⚔️
 ### <하>
 |번호|제목|정답률|비고|상태|
 |-----|:------:|:---:|:---:|:---:|
-|[9655](https://www.acmicpc.net/problem/9655)|돌 게임|67%|
-|[9084](https://www.acmicpc.net/problem/9084)|동전|66%|
-|[9095](https://www.acmicpc.net/problem/9095)|1,2,3 더하기|64%|
-|[1992](https://www.acmicpc.net/problem/1992)|쿼드트리|62%|
-|[1780](https://www.acmicpc.net/problem/1780)|종이의 개수|59%|
-|[11727](https://www.acmicpc.net/problem/11727)|2*N 타일링 2|58%|
-|[2447](https://www.acmicpc.net/problem/2447)|별 찍기|55%|
-|[1149](https://www.acmicpc.net/problem/1149)|RGB거리|54%|
-|[14501](https://www.acmicpc.net/problem/14501)|퇴사|50%|
+|[9655](https://www.acmicpc.net/problem/9655)|돌 게임|67%| |
+|[9084](https://www.acmicpc.net/problem/9084)|동전|66%| |
+|[9095](https://www.acmicpc.net/problem/9095)|1,2,3 더하기|64%| |
+|[1992](https://www.acmicpc.net/problem/1992)|쿼드트리|62%| |
+|[1780](https://www.acmicpc.net/problem/1780)|종이의 개수|59%| |
+|[11727](https://www.acmicpc.net/problem/11727)|2*N 타일링 2|58%| |
+|[2447](https://www.acmicpc.net/problem/2447)|별 찍기|55%| |
+|[1149](https://www.acmicpc.net/problem/1149)|RGB거리|54%| |
+|[14501](https://www.acmicpc.net/problem/14501)|퇴사|50%| |
+|[11582](https://www.acmicpc.net/problem/11582)|치킨 TOP N|실4| |
+|[4779](https://www.acmicpc.net/problem/4779)|칸토어 집합|실3| |
 ### <중>
 |번호|제목|정답률|비고|상태|
 |-----|:------:|:---:|:---:|:---:|
