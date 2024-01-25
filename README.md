@@ -1,6 +1,8 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Study-CodingTest&textBg=false&fontAlignY=51&rotate=7.5&fontColor=282828&animation=twinkling)
 =
+### 금주 문제
+- 백준 [11582](https://www.acmicpc.net/problem/11582), [4779](https://www.acmicpc.net/problem/4779), [1388](https://www.acmicpc.net/problem/1388)
 -----------------------------------------------------------------------------
 # Rules
 ## 📝문제 풀이
