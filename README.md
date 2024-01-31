@@ -2,7 +2,8 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Study-CodingTest&textBg=false&fontAlignY=51&rotate=7.5&fontColor=282828&animation=twinkling)
 =
 ### 금주 문제
-- 백준 [11582](https://www.acmicpc.net/problem/11582), [4779](https://www.acmicpc.net/problem/4779), [1388](https://www.acmicpc.net/problem/1388)
+- 골드(그리디) : [30406](https://www.acmicpc.net/problem/30406), [11000](https://www.acmicpc.net/problem/11000), [12904](https://www.acmicpc.net/problem/12904)
+- 실버(분할정복) : 
 - __문제풀고 [노션](https://www.notion.so/9262e912dd1b4a8da8b6f1b3238432f6?v=d9f3cabe2c9e4033bef815d20e6e4854)에 체크하기__
 -----------------------------------------------------------------------------
 ### 금주 발표
