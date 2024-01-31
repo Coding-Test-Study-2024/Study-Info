@@ -5,6 +5,12 @@
 - 백준 [11582](https://www.acmicpc.net/problem/11582), [4779](https://www.acmicpc.net/problem/4779), [1388](https://www.acmicpc.net/problem/1388)
 - __문제풀고 [노션](https://www.notion.so/9262e912dd1b4a8da8b6f1b3238432f6?v=d9f3cabe2c9e4033bef815d20e6e4854)에 체크하기__
 -----------------------------------------------------------------------------
+### 금주 발표
+- 백준 11582 치킨 TOP N (임준희) [소스cs](https://github.com/Coding-Test-Study-2024/Im-JoonHi/blob/main/Week-01/ChickenTopN.cs)
+- 백준 4779 칸토어 집합 (심재천) [소스cpp](https://github.com/Coding-Test-Study-2024/Shim-Jaechun/blob/main/Week-1/BOJ-4779.cpp)
+- 백준 1388 바닥 장식 (박진언) [소스cpp](https://github.com/Coding-Test-Study-2024/Park-Jineon/blob/main/Week-1/BOJ-1388.cpp) [소스py](https://github.com/Coding-Test-Study-2024/Park-Jineon/blob/main/Week-1/BOJ-1388.py)
+-----------------------------------------------------------------------------
+
 # Rules
 ## 📝문제 풀이
 - 매주 알고리즘별 3문제씩 풀이
