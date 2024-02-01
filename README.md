@@ -44,7 +44,7 @@
 |[14503](https://www.acmicpc.net/problem/14503)|로봇 청소기|53%|  |
 |[7562](https://www.acmicpc.net/problem/7562)|나이트의 이동|51%|  |
 |[1652](https://www.acmicpc.net/problem/1652)|누울 자리를 찾아라|42%|  |
-|[1388](https://www.acmicpc.net/problem/1388)|바닥장식|실4| |
+|[1388](https://www.acmicpc.net/problem/1388)|바닥장식|실4||
 
 ### <중> 
 |번호|제목|정답률|비고|상태|
