@@ -3,7 +3,7 @@
 =
 ### 금주 문제
 - 골드(그리디) : [30406](https://www.acmicpc.net/problem/30406), [11000](https://www.acmicpc.net/problem/11000), [12904](https://www.acmicpc.net/problem/12904)
-- 실버(분할정복) : 
+- 실버(분할정복) : [24460](https://www.acmicpc.net/problem/24460), [6580](https://www.acmicpc.net/problem/6580), [10897](https://www.acmicpc.net/problem/10897)
 - __문제풀고 [노션](https://www.notion.so/9262e912dd1b4a8da8b6f1b3238432f6?v=d9f3cabe2c9e4033bef815d20e6e4854)에 체크하기__
 -----------------------------------------------------------------------------
 ### 금주 발표
