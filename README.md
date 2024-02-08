@@ -2,8 +2,8 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Study-CodingTest&textBg=false&fontAlignY=51&rotate=7.5&fontColor=282828&animation=twinkling)
 =
 ### 금주 문제
-- 골드(그리디) : [30406](https://www.acmicpc.net/problem/30406), [11000](https://www.acmicpc.net/problem/11000), [12904](https://www.acmicpc.net/problem/12904)
-- 실버(분할정복) : [24460](https://www.acmicpc.net/problem/24460), [2630](https://www.acmicpc.net/problem/2630), [10897](https://www.acmicpc.net/problem/10897)
+- 골드(프로그래머스) : [메뉴리뉴](https://school.programmers.co.kr/learn/courses/30/lessons/72411), [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653), [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)
+- 실버(분할정복) : [1992](https://www.acmicpc.net/problem/1992), [1780](https://www.acmicpc.net/problem/1780), [11729](https://www.acmicpc.net/problem/11729)
 - __문제풀고 [노션](https://www.notion.so/9262e912dd1b4a8da8b6f1b3238432f6?v=d9f3cabe2c9e4033bef815d20e6e4854)에 체크하기__
 -----------------------------------------------------------------------------
 ### 금주 발표
