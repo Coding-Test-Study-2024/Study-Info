@@ -2,8 +2,8 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Study-CodingTest&textBg=false&fontAlignY=51&rotate=7.5&fontColor=282828&animation=twinkling)
 =
 ### 금주 문제
-- 골드(그리디) : [2212번 센서](https://www.acmicpc.net/problem/2212), [1715번 카드 정렬하기](https://www.acmicpc.net/problem/1715), [1339번 단어 수학](https://www.acmicpc.net/problem/1339)
-- 실버(프로그래머스) : [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586), [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860), [게임 맵 최단 거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844) 
+- 골드(프로그래머) : [전력망 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971), [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540), [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
+- 실버(그래프 탐색) : [2602번 바이러스](https://www.acmicpc.net/problem/2606), [1260번 DFS와 BFS](https://www.acmicpc.net/problem/1260), [2210번 숫자판 점프](https://www.acmicpc.net/problem/2210) 
 - __문제풀고 [노션](https://www.notion.so/9262e912dd1b4a8da8b6f1b3238432f6?v=d9f3cabe2c9e4033bef815d20e6e4854)에 체크하기__
 -----------------------------------------------------------------------------
 ### 금주 발표
