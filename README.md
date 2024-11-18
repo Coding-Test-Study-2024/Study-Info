@@ -2,12 +2,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Study-CodingTest&textBg=false&fontAlignY=51&rotate=7.5&fontColor=282828&animation=twinkling)
 =
 ### 금주 문제
-- 골드(프로그래머) : [전력망 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971), [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540), [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)
-- 실버(그래프 탐색) : [2602번 바이러스](https://www.acmicpc.net/problem/2606), [1260번 DFS와 BFS](https://www.acmicpc.net/problem/1260), [2210번 숫자판 점프](https://www.acmicpc.net/problem/2210) 
-- __문제풀고 [노션](https://www.notion.so/9262e912dd1b4a8da8b6f1b3238432f6?v=d9f3cabe2c9e4033bef815d20e6e4854)에 체크하기__
------------------------------------------------------------------------------
-### 금주 발표
-
+ Solved.ac 클래스 분류 3~5
 -----------------------------------------------------------------------------
 
 # Rules
@@ -32,8 +27,6 @@
 - 1. 다음주차 문제 선별
 - 2. 문제 별 1명~2명 선별 알고리즘 설명
 
-
- Solved.ac 클래스 분류 3~5
 ---------------------------------------------------------------------
 
 # 📚코딩 테스트 문제집
